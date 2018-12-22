@@ -22,8 +22,8 @@
 		<li> <a class="active" href="index.php"> Index </a> </li>
 		<li> <a href="noticias.php">Notícias</a> </li>
 		<li> <a href="contato.php">Contato</a> </li>
-		<li> <a href="repositorio.php">Eventos</a> </li>
-		<li> <a href="eventos.php">Repositórios de Provas</a> </li>
+		<li> <a href="eventos.php">Eventos</a> </li>
+		<li> <a href="repositorio.php">Repositórios de Provas</a> </li>
 		<li style="float:right"><a href="sobre.php">Sobre</a></li>
 	</ul>
 
